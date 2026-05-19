@@ -40,7 +40,37 @@ IT support workflows.
 
 ## Screenshots
 
-*(See the screenshots/ folder)*
+## Screenshots
+
+### VirtualBox — both VMs created
+![VMs](screenshots/01-virtualbox-vms.png)
+
+### Windows Server 2022 edition selection
+![Edition](screenshots/02-server-edition-selection.png)
+
+### Active Directory Users and Computers — domain tree
+![ADUC](screenshots/06-aduc-domain-tree.png)
+
+### OU structure across 4 departments
+![OUs](screenshots/08-ou-structure.png)
+
+### IT-Admins security group members
+![Groups](screenshots/10-it-admins-group.png)
+
+### Password Policy GPO configured
+![GPO](screenshots/12-gpo-password-policy.png)
+
+### Both GPOs linked in Group Policy Management
+![GPO Linked](screenshots/15-gpo-linked.png)
+
+### CLIENT01 successfully joined to corp.local
+![Domain Join](screenshots/18-domain-join-success.png)
+
+### Logged in as domain user jsmith
+![Domain User](screenshots/20-domain-user-login.png)
+
+### GPO enforcement verified with gpresult
+![GPResult](screenshots/21-gpresult-output.png)
 
 ## Simulated Ticket Log
 
