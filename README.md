@@ -38,19 +38,23 @@ IT support workflows.
 - Network troubleshooting (static IP, internal networking)
 - IT documentation and SOP writing
 
+
 ## Screenshots
 
 ### VirtualBox — both VMs created
-![VMs](screenshots/01-virtualbox-vms.png)
+![ VMs](screenshots/%2001-virtualbox-vms.png)
+
+### Windows Server 2022 installation success
+![ Installation](screenshots/%2003-installation-success.png)
 
 ### Windows Server desktop with Server Manager
-![Server Desktop](screenshots/04-server-desktop.png)
+![ Server Desktop](screenshots/%2004-server-desktop.png)
 
 ### Static IP configured on DC01
-![Static IP DC01](screenshots/05-dc01-static-ip.png)
+![ Static IP DC01](screenshots/%2005-dc01-static-ip.png)
 
-### Active Directory Users and Computers — domain tree
-![ADUC](screenshots/06-aduc-domain-tree.png)
+### Active Directory Users and Computers
+![ ADUC](screenshots/%2006-aduc-domain-tree.png)
 
 ### DNS Manager showing corp.local
 ![DNS](screenshots/07-dns-manager.png)
@@ -59,46 +63,43 @@ IT support workflows.
 ![OUs](screenshots/08-ou-structure.png)
 
 ### IT OU showing user accounts
-![IT Users](screenshots/09-it-ou-users.png)
+![ IT Users](screenshots/%2009-it-ou-users.png)
 
 ### IT-Admins security group members
-![Groups](screenshots/10-it-admins-group.png)
+![ Groups](screenshots/%2010-it-admins-group.png)
 
 ### User management right-click menu
-![User Management](screenshots/11-user-management.png)
+![ User Management](screenshots/%2011-user-management.png)
 
 ### Password Policy GPO configured
-![GPO Password](screenshots/12-gpo-password-policy.png)
+![ GPO Password](screenshots/%2012-gpo-password-policy.png)
 
 ### Account Lockout Policy configured
-![GPO Lockout](screenshots/13-gpo-account-lockout.png)
+![ GPO Lockout](screenshots/%2013-gpo-account-lockout.png)
 
 ### HR Desktop Restrictions GPO
-![GPO HR](screenshots/14-gpo-hr-restrictions.png)
+![ GPO HR](screenshots/%2014-gpo-hr-restrictions.png)
 
 ### Both GPOs linked in Group Policy Management
-![GPO Linked](screenshots/15-gpo-linked.png)
+![ GPO Linked](screenshots/%2015-gpo-linked.png)
 
 ### CLIENT01 static IP and DNS settings
-![Static IP Client](screenshots/16-client01-static-ip.png)
+![ Static IP Client](screenshots/%2016-client01-static-ip.png)
 
 ### Ping test showing 0% loss
 ![Ping](screenshots/17-ping-success.png)
 
 ### Welcome to corp.local domain confirmation
-![Domain Join](screenshots/18-domain-join-success.png)
+![ Domain Join](screenshots/%2018-domain-join-success.png)
 
 ### CLIENT01 login screen showing CORP domain
 ![Login Screen](screenshots/19-domain-login-screen.png)
 
-### Logged in as domain user jsmith
-![Domain User](screenshots/20-domain-user-login.png)
-
 ### GPO enforcement verified with gpresult
-![GPResult](screenshots/21-gpresult-output.png)
+![GPResult](screenshots/20-gpresult-output.png)
 
-### HR restriction enforced on CLIENT01
-![HR Restriction](screenshots/22-gpo-restriction-enforced.png)
+### GPO restriction enforced on CLIENT01
+![ HR Restriction](screenshots/%2022-gpo-restriction-enforced.png)
 
 
 ## Simulated Ticket Log
