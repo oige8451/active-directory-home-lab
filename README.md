@@ -93,7 +93,7 @@ IT support workflows.
 ![ Domain Join](screenshots/%2018-domain-join-success.png)
 
 ### CLIENT01 login screen showing CORP domain
-![Login Screen]([screenshots/19-domain-login-screen.pn](https://github.com/oige8451/active-directory-home-lab/blob/main/screenshots/%2016-client01-static-ip.png))
+![Login Screen](screenshots/19-domain-login-screen.png)
 
 ### GPO enforcement verified with gpresult
 ![GPResult](screenshots/20-gpresult-output.png)
