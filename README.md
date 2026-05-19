@@ -40,37 +40,66 @@ IT support workflows.
 
 ## Screenshots
 
-## Screenshots
-
 ### VirtualBox — both VMs created
 ![VMs](screenshots/01-virtualbox-vms.png)
 
-### Windows Server 2022 edition selection
-![Edition](screenshots/02-server-edition-selection.png)
+### Windows Server desktop with Server Manager
+![Server Desktop](screenshots/04-server-desktop.png)
+
+### Static IP configured on DC01
+![Static IP DC01](screenshots/05-dc01-static-ip.png)
 
 ### Active Directory Users and Computers — domain tree
 ![ADUC](screenshots/06-aduc-domain-tree.png)
 
+### DNS Manager showing corp.local
+![DNS](screenshots/07-dns-manager.png)
+
 ### OU structure across 4 departments
 ![OUs](screenshots/08-ou-structure.png)
+
+### IT OU showing user accounts
+![IT Users](screenshots/09-it-ou-users.png)
 
 ### IT-Admins security group members
 ![Groups](screenshots/10-it-admins-group.png)
 
+### User management right-click menu
+![User Management](screenshots/11-user-management.png)
+
 ### Password Policy GPO configured
-![GPO](screenshots/12-gpo-password-policy.png)
+![GPO Password](screenshots/12-gpo-password-policy.png)
+
+### Account Lockout Policy configured
+![GPO Lockout](screenshots/13-gpo-account-lockout.png)
+
+### HR Desktop Restrictions GPO
+![GPO HR](screenshots/14-gpo-hr-restrictions.png)
 
 ### Both GPOs linked in Group Policy Management
 ![GPO Linked](screenshots/15-gpo-linked.png)
 
-### CLIENT01 successfully joined to corp.local
+### CLIENT01 static IP and DNS settings
+![Static IP Client](screenshots/16-client01-static-ip.png)
+
+### Ping test showing 0% loss
+![Ping](screenshots/17-ping-success.png)
+
+### Welcome to corp.local domain confirmation
 ![Domain Join](screenshots/18-domain-join-success.png)
+
+### CLIENT01 login screen showing CORP domain
+![Login Screen](screenshots/19-domain-login-screen.png)
 
 ### Logged in as domain user jsmith
 ![Domain User](screenshots/20-domain-user-login.png)
 
 ### GPO enforcement verified with gpresult
 ![GPResult](screenshots/21-gpresult-output.png)
+
+### HR restriction enforced on CLIENT01
+![HR Restriction](screenshots/22-gpo-restriction-enforced.png)
+
 
 ## Simulated Ticket Log
 
