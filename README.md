@@ -93,7 +93,7 @@ IT support workflows.
 ![ Domain Join](screenshots/%2018-domain-join-success.png)
 
 ### CLIENT01 login screen showing CORP domain
-![Login Screen](screenshots/19-domain-login-screen.png)
+![Login Screen](screenshots/%2019-domain-login-screen.png)
 
 ### GPO enforcement verified with gpresult
 ![GPResult](screenshots/20-gpresult-output.png)
