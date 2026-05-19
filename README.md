@@ -96,7 +96,7 @@ IT support workflows.
 ![Login Screen](screenshots/%2019-domain-login-screen.png)
 
 ### GPO enforcement verified with gpresult
-![GPResult](screenshots/20-gpresult-output.png)
+![GPResult](screenshots/%2021-gpresult-output%20.png)
 
 ### GPO restriction enforced on CLIENT01
 ![ HR Restriction](screenshots/%2022-gpo-restriction-enforced.png)
